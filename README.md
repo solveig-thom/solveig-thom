@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello!
+I am a PhD student studying compact stellar systems such as nuclear star clusters in dwarf galaxies and how they evolve in a galaxy cluster environment. Specifically I use JWST data to investigate the presence or lack-thereof of a central black hole in these object. 
 <!--
 **solveig-thom/solveig-thom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
